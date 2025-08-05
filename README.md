@@ -2,7 +2,7 @@
 ## Personal information
 - 🎓 Cybersecurity Bachelor student
 - 🔐 Passionate about network security, system hardening, and ethical hacking
-- 🌐 Personal website: <a href="https://axelmrt.fr" target="_blank" rel="noopener noreferrer">axelmrt.fr</a>
+- 🌐 Personal website: [axelmrt.fr](https://axelmrt.fr)
 
 ---
 
@@ -26,7 +26,7 @@ I maintain a small homelab environment to experiment with system deployment, cyb
 ---
 
 ## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/axel-martin-0b85292b5/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]((https://www.linkedin.com/in/axel-martin-0b85292b5/))
 [![Email](https://img.shields.io/badge/Email-axelmartin076%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:axelmartin076@gmail.com)
 
 
