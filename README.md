@@ -2,7 +2,7 @@
 ## Personal information
 - 🎓 Cybersecurity Bachelor student
 - 🔐 Passionate about network security, system hardening, and ethical hacking
-- 🌐 Personal website: [axelmrt.fr](https://axelmrt.fr) 
+- 🌐 Personal website: <a href="https://axelmrt.fr" target="_blank" rel="noopener noreferrer">axelmrt.fr</a>
 
 ---
 
