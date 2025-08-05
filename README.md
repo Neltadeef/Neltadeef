@@ -1,8 +1,8 @@
 # 👋 Hey there, I'm Axel Martin
-
-🎓 Cybersecurity Bachelor student
-🔐 Passionate about network security, system hardening, and ethical hacking
-🌐 Personal website: [axelmrt.fr](https://axelmrt.fr) 
+## Personal information
+- 🎓 Cybersecurity Bachelor student
+- 🔐 Passionate about network security, system hardening, and ethical hacking
+- 🌐 Personal website: [axelmrt.fr](https://axelmrt.fr) 
 
 ---
 
