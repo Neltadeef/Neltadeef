@@ -27,6 +27,3 @@ I maintain a small homelab environment to experiment with system deployment, cyb
 
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/axel-martin-0b85292b5/)
-[![Email](https://img.shields.io/badge/Email-axelmartin076%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:axelmartin076@gmail.com)
-
-
